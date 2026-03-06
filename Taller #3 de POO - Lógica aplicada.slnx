@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Exercises32/Exercises32.csproj" Id="cebbb70a-80f9-46e7-aa29-1cc82b202422" />
+  <Project Path="Exercises33/Exercises33.csproj" Id="c25a6660-bc04-47e9-a001-15d49ceb42c1" />
+  <Project Path="Shared/Shared.csproj" Id="8a3d5a7f-a697-4499-8838-99a1df078308" />
+</Solution>
